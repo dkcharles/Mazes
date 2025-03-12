@@ -1,0 +1,14 @@
+D:\_github\Mazes\Mazes\bin\Debug\net9.0\Mazes.exe
+D:\_github\Mazes\Mazes\bin\Debug\net9.0\Mazes.deps.json
+D:\_github\Mazes\Mazes\bin\Debug\net9.0\Mazes.runtimeconfig.json
+D:\_github\Mazes\Mazes\bin\Debug\net9.0\Mazes.dll
+D:\_github\Mazes\Mazes\bin\Debug\net9.0\Mazes.pdb
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.GeneratedMSBuildEditorConfig.editorconfig
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.AssemblyInfoInputs.cache
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.AssemblyInfo.cs
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.csproj.CoreCompileInputs.cache
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.dll
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\refint\Mazes.dll
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.pdb
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\Mazes.genruntimeconfig.cache
+D:\_github\Mazes\Mazes\obj\Debug\net9.0\ref\Mazes.dll
